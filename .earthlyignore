@@ -1,0 +1,9 @@
+.git/
+.gitignore
+
+Earthfile
+.earthlyignore
+
+node_modules/
+out/
+.next/
